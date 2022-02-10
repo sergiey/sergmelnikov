@@ -1,5 +1,5 @@
 - Hi, I’m Sergey Melnikov
-- I’m currently learning programming
+- I’m currently learning computer science
 
 <!---
 sergmelnikov/sergmelnikov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
