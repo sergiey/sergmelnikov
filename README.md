@@ -1,4 +1,4 @@
-- Hi, I’m Sergey Melnikov
+- Hello, I’m Sergey Melnikov.
 - I’m currently learning computer science, C# and Dotnet.
 
 <!---
